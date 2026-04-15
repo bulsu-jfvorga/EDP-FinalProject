@@ -15,7 +15,8 @@ import javafx.scene.shape.Rectangle;
 import javafx.stage.Modality;
 import javafx.stage.Stage;
 import java.sql.*;
-
+ 
+ 
 public class RemindersPanel {
 
     // BulSU Color Palette
